@@ -1,0 +1,22 @@
+<style>
+	body {
+		font-family: cambria;
+		font-size: 15px;
+		background: url("https://pre00.deviantart.net/4c65/th/pre/f/2012/304/1/9/the_devil_by_panick-d5jj5e3.jpg");
+		background-position: center;
+		background-size: cover;
+		color: white;
+		text-align: justify;	
+	}
+  	p a[href="http://dum.rvp.cz/materialy/pohadka-o-chytrem-sevci-a-hloupem-certovi.html"] {
+		  color: red;
+  	}
+  	body h2 {
+    	font-size: 20px;
+    	text-decoration: underline;
+  	}
+  	header h1 {
+    	border-bottom: 3px solid red;
+    	font-size: 24px;
+    }
+  </style>
